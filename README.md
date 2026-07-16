@@ -84,10 +84,3 @@ Workflow:
 <a><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"><a/>
 <a><img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"><a/>
 <a><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"><a/>
-
-<hr>
-
-### :chart_with_upwards_trend: GitHub Stats
-![Kelly GitHub stats](https://github-readme-stats.vercel.app/api?username=Kelly0921&show_icons=true&theme=buefy&hide_border=true)
-
-![Kelly top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kelly0921&layout=compact&theme=buefy&hide_border=true)
