@@ -88,7 +88,6 @@ Workflow:
 <hr>
 
 ### :chart_with_upwards_trend: GitHub Stats
-<p>
-  <img width="485" src="https://github-readme-stats.vercel.app/api?username=kelly0921&show_icons=true&theme=buefy&hide_border=true" alt="Kelly's GitHub stats"/>
-  <img width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelly0921&layout=compact&theme=buefy&hide_border=true" alt="Kelly's top languages"/>
-</p>
+![Kelly GitHub stats](https://github-readme-stats.vercel.app/api?username=Kelly0921&show_icons=true&theme=buefy&hide_border=true)
+
+![Kelly top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kelly0921&layout=compact&theme=buefy&hide_border=true)
