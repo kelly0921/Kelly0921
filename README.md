@@ -1,87 +1,90 @@
 <!--
-**Kelly0921/Kelly0921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**Kelly0921/Kelly0921** is a special repository because its `README.md` appears on your GitHub profile.
 -->
 <img src="https://images2.imgbox.com/b4/2f/TAW2GHei_o.png">
-  
+
 <div id="badges" align="center">
+  <a href="https://kellychen.dev">
+    <img src="https://img.shields.io/badge/Portfolio-fff7e8?style=for-the-badge&logo=googlechrome&logoColor=173542" alt="Portfolio Badge"/>
+  </a>
   <a href="https://www.linkedin.com/in/kellychen0921">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/kellykarry040921">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  <a href="mailto:kellychenmeiyi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-d98b67?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </div>
-  <div align="center">
-    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Kelly0921?color=F8BBD0&style=for-the-badge&logo=github&label=Follow"/>
-  </div>
+
+<div align="center">
+  <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Kelly0921?color=F8BBD0&style=for-the-badge&logo=github&label=Follow"/>
 </div>
+
 <hr>
 
 ### :woman_technologist: About Me
-I'm known as the one who's always driven to learn new skills and always looking forward to challenges to help me grow beyond my limits. My adventurous personality, technical skills, and experience helped me build a strong network and allowed me to explore my potential.
+I'm Kelly Chen, a software engineer who likes turning messy ideas, workflows, and access gaps into organized systems people can actually use.
 
-🎓 I am an ambitious third-year student at Lehigh University majoring in Computer Science and Business, passionate about FinTech, entrepreneurship, and product management. 
+I currently work at **Bloomberg - Fixed Income Private Securities** in New York. Outside of work, I build product experiments across fintech, AI-assisted workflows, early-career opportunity systems, and community access.
 
 <img src="https://media.giphy.com/media/H1f1T0tKK4jEfNt6MG/giphy.gif" width="250" align="right">
 
-👩🏽‍💻 While keeping busy with my studies, I am also involved with campus activities such as: 
-- Co-Web Development Chair of Women in Computer Science
-- Mentor of Computer Science and Business Association
-- Hatchery Participant of Baker Institute
-- Member of New Ventures Club
+:hammer_and_wrench: I am currently building and testing:
+- **BeamCash** - accountless QR checkout for sellers, vendors, performers, nonprofits, and donation groups.
+- **WebPilot** - an AI website operations platform for making recommendations reviewable, evidence-backed, and implementation-ready.
+- **WriteGuard** - a TypeScript reliability layer for AI-agent workflows that perform consequential external writes.
+- **ApplyFirst** - an early-access opportunity system for students tracking programs, fellowships, scholarships, and career-launch resources.
+- **Tandem** - a validation-first NYC dating experiment around complementary ambition and future direction.
+- **SkanPay** - QR payment and redemption concepts for local commerce.
 
-❤️ I am passionate about:
-- Tech for social good
-- Continuous learning
-- Mentoring future generations of women in tech
+:microphone: I also speak and write about:
+- Career leverage for emerging engineers.
+- Conference strategy, opportunity access, and student resource systems.
+- Building practical MVPs that turn scattered friction into testable products.
+- Women-in-tech community building and early-career support.
 
-✨ I am also actively involved with other professional affiliations outside of school, such as:
-Rewriting the Code, Girls Who Code, AnitaB.org, National Center for Women & Information Technology, Women in Cybersecurity, CodePath, Major League Hacking
+:sparkles: Community has shaped a lot of my work. I have been involved with **Rewriting the Code**, **Girls Who Code**, **CodePath**, **Major League Hacking**, **AnitaB.org**, **NCWIT**, and other technical communities.
 
-🚀 Follow my journey as I boldly pursue my tech goals! 🚩
+:rocket: Follow along if you care about technical systems, fintech ideas, AI workflow tooling, student opportunity access, or building useful things from real-life friction.
+
 <hr>
 
 ### :computer: Technologies & Tools
 Programming Languages:
 
-<a><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"><a/>
-<a><img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"><a/>
+<a><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"><a/>
+<a><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"><a/>
+<a><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"><a/>
+<a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><a/>
+<a><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"><a/>
+<a><img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"><a/>
+
+Frontend & Product:
+
+<a><img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><a/>
+<a><img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"><a/>
+<a><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"><a/>
 <a><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><a/>
 <a><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><a/>
-<a><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"><a/>
+<a><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"><a/>
+
+Backend, Data & Infrastructure:
+
+<a><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"><a/>
+<a><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"><a/>
+<a><img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"><a/>
+<a><img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white"><a/>
+<a><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"><a/>
+<a><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"><a/>
+<a><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"><a/>
 <a><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"><a/>
 
-Software:
+Workflow:
 
-<a><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"><a/>
-<a><img src="	https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white"><a/>
-<a><img src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white"><a/>
-<a><img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"><a/>
-<a><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"><a/>
-<a><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"><a/>
-<a><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"><a/>
-<a><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"><a/>
+<a><img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white"><a/>
+<a><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"><a/>
+<a><img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"><a/>
 <a><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"><a/>
-<a><img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"><a/>
 
-Framework/Library:
-
-<a><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"><a/>
-<a><img src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"><a/>
-<a><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"><a/>
-<a><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"><a/>
-<a><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"><a/>
 <hr>
 
 ### :chart_with_upwards_trend: GitHub Stats
