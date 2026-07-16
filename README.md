@@ -88,4 +88,7 @@ Workflow:
 <hr>
 
 ### :chart_with_upwards_trend: GitHub Stats
-<img align="left" width="485" src="https://github-readme-stats.vercel.app/api?username=Kelly0921&include_all_commits=true&count_private=true&show_icons=true&theme=buefy" alt="my Github Stats"/>
+<p>
+  <img width="485" src="https://github-readme-stats.vercel.app/api?username=kelly0921&show_icons=true&theme=buefy&hide_border=true" alt="Kelly's GitHub stats"/>
+  <img width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelly0921&layout=compact&theme=buefy&hide_border=true" alt="Kelly's top languages"/>
+</p>
