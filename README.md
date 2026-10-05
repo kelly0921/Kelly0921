@@ -1,7 +1,6 @@
 <!--
 **Kelly0921/Kelly0921** is a special repository because its `README.md` appears on your GitHub profile.
 -->
-<img src="https://images2.imgbox.com/b4/2f/TAW2GHei_o.png">
 
 <div id="badges" align="center">
   <a href="https://kellychen.dev">
